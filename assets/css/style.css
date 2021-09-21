@@ -462,7 +462,7 @@ button {
   position: relative;
   display: block;
   text-align: center;
-  color: #ffffff;
+  color: #000000;
   font-size: 30px;
   padding-bottom: 10px;
   margin-bottom: 35px;
@@ -474,7 +474,7 @@ button {
   display: block;
   width: 183px;
   height: 2px;
-  background-color: #fff;
+  background-color: #f9b842;
   bottom: 0;
   left: calc(50% - (183px/2));
 }
