@@ -79,7 +79,7 @@ button {
   border: none;
   margin: 0 auto;
   background-color: #f9b842;
-  color: #fff;
+  color: #000;
   width: 287px;
   height: 55px;
 }
@@ -288,7 +288,7 @@ button {
 }
 
 .section-title--keycolorlight .section-title__stage {
-  color: #fff;
+  color: #000;
 }
 
 .section-title--keycolor {
